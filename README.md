@@ -17,8 +17,6 @@ Este projeto tem como objetivo identificar padrões de comportamento dos passage
 
 A base de dados é composta por cinco tabelas principais interligadas, conforme o esquema a seguir:
 
-![Esquema do Banco de Dados](Banner.png)
-
 ### Tabelas:
 
 #### `trips`
