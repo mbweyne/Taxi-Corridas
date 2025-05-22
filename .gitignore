@@ -1,0 +1,36 @@
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+ENV/
+
+# Configurações do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos ocultos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de exportação
+*.csv
+*.xlsx
+*.tsv
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de ambiente
+.env
